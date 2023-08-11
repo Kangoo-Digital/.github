@@ -3,9 +3,10 @@
 
 A Kangoo Digital é uma agência compromissada com o resultado de ponta a ponta. Conta com diversos recursos tecnológicos e parcerias estratégicas para colocar a sua marca em primeiro lugar na internet.
 
-
+<img align="right" height="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
   <img align="right" height="150" src="https://kangoo.digital/wp-content/uploads/2022/06/Kangoo-Digital-Cor-Completo-1290x1290-Branco-Perfil.fw_.png"/>
+
 
 <div aling="center">
   
