@@ -28,6 +28,6 @@ A Kangoo Digital é uma agência compromissada com o resultado de ponta a ponta.
  <a  align="center"  alt="Js" height="30" width="40"  href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>
 <a  align="center"  alt="Js" height="30" width="40"  href="https://www.apache.org/" title="Apache"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="30px" height="30px"></a>
 
-<img align="right" height="150" style="border-radius:50px;" src="https://github.com/MariaIsabelli/MariaIsabelli/blob/main/001.gif">
+
     
 
