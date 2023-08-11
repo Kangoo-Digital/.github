@@ -10,7 +10,7 @@ A Kangoo Digital é uma agência compromissada com o resultado de ponta a ponta.
 
 <div aling="center">
   
-## 🔗 Conheça nossa Agencia !                                               
+## 🔗 Conheça nossa Agência !                                               
 <a href="https://www.instagram.com/kangoodigitalbr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://youtube.com/@KangooDigital" target="_blank"><img src="https://img.shields.io/badge/-youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white%22" target="_blank"></a>
 <a href="https://www.linkedin.com/company/kangoo-digital/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
