@@ -5,7 +5,7 @@ A Kangoo Digital é uma agência compromissada com o resultado de ponta a ponta.
 
 
 
-  <img align="right" height="150" href="https://www.instagram.com/kangoodigitalbr/" src="https://kangoo.digital/wp-content/uploads/2022/06/Kangoo-Digital-Cor-Completo-1290x1290-Branco-Perfil.fw_.png"/>
+  <img align="right" height="150" src="https://kangoo.digital/wp-content/uploads/2022/06/Kangoo-Digital-Cor-Completo-1290x1290-Branco-Perfil.fw_.png"/>
 
 <div aling="center">
   
@@ -13,11 +13,8 @@ A Kangoo Digital é uma agência compromissada com o resultado de ponta a ponta.
 <a href="https://www.instagram.com/kangoodigitalbr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/company/kangoo-digital/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-<div aling="center">
-   <A href="https://github.com/MariaIsabelli">
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaIsabelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsabelli&layout=compact&langs_count=7&theme=dracula"/>
-   </div>
+
+## 🔗 Nossas Tecnologias    
 <div aling="center">
    <img  align="center"  alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
